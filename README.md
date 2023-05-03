@@ -9,7 +9,7 @@
 
 # account-financial-reporting
 
-TODO: add repo description.
+TODO: add repo description
 
 <!-- /!\ do not modify below this line -->
 
