@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with: 
-          repository: AlphaLabsUY/odoo_education_docker
+          repository: TriviumUY/odoo_education_docker
           token: ${{ secrets.PRIVATE_TOKEN_GITHUB }}
           submodules: 'true'
 
